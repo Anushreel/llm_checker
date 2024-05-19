@@ -35,11 +35,15 @@ I have used data from **codesearchnet**. The dataset is too large to upload to G
 
 ## Model Training
 
-To train the model, run the `train_model.py` script. This script will load the datasets, preprocess them, and train the LLMWare model.
+To train the model, run the `train_llmware.py` script. This script will load the datasets, preprocess them, and train the LLMWare model.
 
 ```sh
-python train_model.py
+python train_llmware.py
 ```
+
+`app_llmware.py` is a Flask app
+Postman demo here
+<img src="IMAGE_URL_HERE" alt="Image Description" width="560" height="315">
 
 ## Streamlit App
 
