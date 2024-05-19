@@ -42,8 +42,10 @@ python train_llmware.py
 ```
 
 `app_llmware.py` is a Flask app
+
 Postman demo here
-<img src="IMAGE_URL_HERE" alt="Image Description" width="560" height="315">
+
+<img src="https://github.com/Anushreel/llm_checker/blob/master/Screenshot%202024-05-19%20012615.png" alt="Image Description" width="560" height="315">
 
 ## Streamlit App
 
