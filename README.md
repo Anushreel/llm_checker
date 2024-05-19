@@ -46,7 +46,7 @@ python train_llmware.py
 
 Postman demo here
 
-<img src="https://github.com/Anushreel/llm_checker/blob/master/Screenshot%202024-05-19%20012615.png" alt="Image Description" width="560" height="315">
+<img src="https://github.com/Anushreel/llm_checker/blob/master/images/Screenshot%202024-05-19%20012615.png" alt="Image Description" width="560" height="315">
 
 ## Streamlit App
 
@@ -139,14 +139,14 @@ for row in matrix:
 
 Watch a demonstration of our code completion system in action:
 
-<iframe width="560" height="315" src="https://github.com/Anushreel/llm_checker/blob/master/code.mp4" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://github.com/Anushreel/llm_checker/blob/master/images/code.mp4" frameborder="0" allowfullscreen></iframe>
 
 
 ## Output
 
-<img src="https://github.com/Anushreel/llm_checker/blob/master/Screenshot%202024-05-19%20012615.png" alt="Image Description" width="560" height="315">
+<img src="https://github.com/Anushreel/llm_checker/blob/master/images/Screenshot%20(79).png" alt="Image Description" width="560" height="315">
 
-<img src="https://github.com/Anushreel/llm_checker/blob/master/Screenshot%202024-05-19%20012615.png" alt="Image Description" width="560" height="315">
+<img src="https://github.com/Anushreel/llm_checker/blob/master/images/Screenshot%20(76).png" alt="Image Description" width="560" height="315">
 
 ## Acknowledgements
 
